@@ -1,24 +1,20 @@
-## node.js
-
-本项目 2012 年 是基于 nodejs 0.8 版本开发的，无法运行，如果学习，请直接查看代码，谢谢
-
 =======
-Node.js+express.js+mongoose+ejs+monogdb 知识库管理系统 <br />
+Node.js+express.js+mongoose+ejs+monogdb knowledge base management system <br />
 
-> 框架用的 MVC 方式。<br />
+> The MVC method used by the framework. <br />
 >
-> > 基于 express.js 的 MVC 方式实现<br />
+>> MVC based on express.js implementation<br />
 
-> 博客管理<br />
+> Blog Management<br />
 >
-> > 文件博客分类管理<br />
-> > 博客搜索功能<br />
+>> File Blog Classification Management<br />
+>> Blog search function<br />
 
-> 文件管理<br />
+> File Management<br />
 >
-> > 包括多文件异步带进度的上传方式<br />
-> > 图片高性能加载<br />
+>> Including multi-file asynchronous upload mode with progress<br />
+>> High-performance image loading<br />
 
-> 用户管理<br />
+> User Management<br />
 >
-> > 用户权限管理系统<br />
+>> User Authority Management System<br />
